@@ -1,0 +1,51 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: OpenRefine Training Dataset based on a subset of the BGBM Herbarium
+description: >-
+  This dataset was created for a training workshop for the OpenRefine software.
+  It is a subset of an old snapshot of the herbarium database of the Botanic
+  Garden and Botanical Museum (BGBM) Berlin, Germany. 
+
+  This is NOT a complete, accurate or up-to-date dataset. 
+
+  DO NOT USE FOR SCIENTIFIC PURPOSES.
+
+  To get the complete and current version of the Herbarium dataset from the
+  BGBM, please use:
+  https://www.gbif.org/dataset/85714c48-f762-11e1-a439-00145eb45e9a 
+
+  This dataset contains 1136 records with 9 different columns: Barcode (string),
+  Family (string), FullScientificName (string), KindOfUnit (string, 4 different
+  values), CollectionDate (string), CollectorName (string), LocationDetails
+  (string), Country (string, 127 different values), CountryCode (string, 127
+  different values).
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.14918375
+creator:
+  - name: Botanic Garden and Botanical Museum Berlin
+    id: https://ror.org/00bv4cx53
+    type: Organization
+keywords:
+  - Open Refine
+  - Data Cleaning
+  - NFDI4Biodiversity
+  - research data management
+  - training
+  - RDM
+  - rdm training
+  - biodiversity
+  - Nationale Forschungsdateninfrastruktur
+  - NFDI
+  - National Research Data Infrastructure
+  - research data
+  - data processing
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/data
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-02-24'
