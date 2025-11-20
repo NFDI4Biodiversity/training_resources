@@ -21,7 +21,7 @@ description: >-
 
   Git Repository: https://github.com/jonaden94/TheLinearModel
 license: https://creativecommons.org/licenses/by/4.0/deed.de
-id: https://www.youtube.com/playlist?list=PL06Unzn1hDrjw4nOQk7ZfZmZ8vJ48aDy_
+id: https://www.youtube.com/playlist?list=PL06Unzn1hDrizkhhD0L9nROFnfqxtBVwY
 creator:
   - givenName: Sören
     familyName: Fitjer
@@ -54,3 +54,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2022-06-27'
+
