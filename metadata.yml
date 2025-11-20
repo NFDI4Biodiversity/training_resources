@@ -1,1 +1,7 @@
-- !include metadata/*
+- !include metadata/bgbm2025_openrefine_data.yml
+- !include metadata/fichtmueller2025_openrefine.yml
+- !include metadata/gerber2021_tidydata1.yml
+- !include metadata/gerber2021_tidydata2.yml
+- !include metadata/gerber2021_tidydata3.yml
+- !include metadata/gerber2022_tidydata4.yml
+- !include metadata/gerber2022_tidydata-series.yml
