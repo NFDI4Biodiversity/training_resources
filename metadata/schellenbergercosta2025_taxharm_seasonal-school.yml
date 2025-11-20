@@ -1,0 +1,77 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Taxonomic name harmonization
+description: >-
+  The presentations and scripts give an introduction to taxonomic name
+  harmonization, the process of cleaning and resolving scientific names to work
+  with organismic data from different sources.
+
+  This resource was initially created for the NFDI Seasonal School 2024. The
+  2025 update features small adaptations and improvements to the jupyter
+  notebooks, reflecting changes in the GBIF API and/or rgbif R package and
+  comments from users. Additionally, the presentation on the topic has been
+  greatly expanded including a full walkthrough of the name parsing and name
+  resolution workbooks.
+
+
+  For those not wanting to use jupyter notebooks the html files provide the same
+  content as the ipynb files including results of computations, they are just
+  not interactive.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17350117
+creator:
+  - givenName: Schellenberger Costa
+    familyName: David
+    id: https://orcid.org/0000-0003-1747-1506
+    type: Person
+    affiliation:
+      - name: Universität Leipzig
+        id: https://ror.org/03s7gtk40
+        type: Organization
+      - name: German Centre for Integrative Biodiversity Research
+        id: https://ror.org/01jty7g66
+        type: Organization
+keywords:
+  - taxonomic harmonization
+  - taxonomic data integration
+  - taxonomic name resolution
+  - taxonomic name parsing
+  - taxonomic backbone
+  - GBIF
+  - GBIF API
+  - plant functional traits
+  - occurrence records
+  - R
+  - biodiversity
+  - ecology
+  - PlantHub
+  - iDiv
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data processing
+  - standardization
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/data
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/script
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-10-14'
