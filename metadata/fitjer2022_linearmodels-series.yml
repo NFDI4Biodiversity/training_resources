@@ -1,0 +1,56 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Data Science for Ecologists in R: Linear Models – Self-Learning Video Series'
+description: >-
+  The NFDI4Biodiversity "Data Science 4 Ecologists in R" self-study series
+  teaches researchers from the fields of biology and ecology how to work with
+  the free R programming language.
+
+
+  It is continued by the NFDI4Biodiversity video series "Data Science 4
+  Ecologists in R: Polynomial Regression Analysis in R" (3 parts,
+  https://youtube.com/playlist?list=PL06Unzn1hDrjsxYvyGOWImRvawEFajrwL).
+
+
+  Links: 
+
+  R-Project: https: https://www.r-project.org
+
+  RStudio: https://posit.co/download/rstudio-desktop/
+
+  Git Repository: https://github.com/jonaden94/TheLinearModel
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://www.youtube.com/playlist?list=PL06Unzn1hDrjw4nOQk7ZfZmZ8vJ48aDy_
+creator:
+  - givenName: Sören
+    familyName: Fitjer
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+keywords:
+  - NFDI4Biodiversity
+  - tidy data
+  - tidyverse
+  - R
+  - National Research Data Infrastructure
+  - NFDI
+  - research data
+  - biodiversity
+  - research data management
+  - RDM
+  - good scientific practice
+  - data analysis
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/video
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2022-06-27'
