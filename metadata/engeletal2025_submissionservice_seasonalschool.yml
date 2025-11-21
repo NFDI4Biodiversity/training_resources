@@ -12,8 +12,8 @@ description: >
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://doi.org/10.5281/zenodo.15174063
 creator:
-  - givenName: Engel
-    familyName: Judith
+  - givenName: Judith
+    familyName: Engel
     id: https://orcid.org/0000-0001-8665-6382
     type: Person
     affiliation:
@@ -68,3 +68,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-04-08'
+
