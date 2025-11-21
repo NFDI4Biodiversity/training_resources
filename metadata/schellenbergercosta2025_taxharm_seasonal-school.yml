@@ -26,12 +26,9 @@ creator:
     id: https://orcid.org/0000-0003-1747-1506
     type: Person
     affiliation:
-      - name: Universität Leipzig
-        id: https://ror.org/03s7gtk40
-        type: Organization
-      - name: German Centre for Integrative Biodiversity Research
-        id: https://ror.org/01jty7g66
-        type: Organization
+      name: Universität Leipzig
+      id: https://ror.org/03s7gtk40
+      type: Organization
 keywords:
   - taxonomic harmonization
   - taxonomic data integration
@@ -75,3 +72,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-14'
+
