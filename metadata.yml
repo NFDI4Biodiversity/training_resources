@@ -2,6 +2,7 @@
 - !include metadata/engeletal2025_submissionservice_seasonalschool.yml
 - !include metadata/fichtmueller2025_openrefine.yml
 - !include metadata/figueiredo2024_repro_workflows.yml
+- !include metadata/fitjer2022_linearmodels-series.yml
 - !include metadata/gerber2022_tidydata-series.yml
 - !include metadata/kostadinovetal2025_dataliteracy_seasonalschool.yml
 - !include metadata/kusch2025_dataaccess_seasonalschool.yml
