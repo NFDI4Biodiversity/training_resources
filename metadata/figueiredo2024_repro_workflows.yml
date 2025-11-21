@@ -1,0 +1,58 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'Publishing your (R) workflow: How to get started and where to go next'
+description: >-
+  Presentation about how to make scientific code reproducible and how to publish
+  it. Examples are focused on the use of the R language.
+
+
+  This presentation was part of the NFDI4Biodiversity & iDiv Seasonal School on
+  Data Management in Ecology and Environmental Science in December 2024.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.14282399
+creator:
+  - givenName: Ludmilla
+    familyName: Figueiredo
+    id: https://orcid.org/0000-0001-8217-7800
+    type: Person
+    affiliation:
+      name: Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv)
+      id: https://ror.org/01jty7g66
+      type: Organization
+keywords:
+  - reproducible Workflows
+  - reproducibility
+  - R
+  - code
+  - publishing code
+  - file structure
+  - computational environment
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data processing
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-12-05'

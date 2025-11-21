@@ -1,0 +1,55 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'FAIR tools and processes: Getting started withJupyter & Git(Hub)'
+description: >-
+  Slides introducing Jupyter, git and GitHub as part of the NFDI4Biodiversity
+  Seasonal School 2024. 
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.14262125
+creator:
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+keywords:
+  - git
+  - jupyter
+  - github
+  - quarto
+  - R
+  - version control
+  - versioning
+  - computational notebook  - 
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data processing
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-12-02'

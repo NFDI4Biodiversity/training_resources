@@ -1,0 +1,63 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Three useful tools to get data in shape
+description: >-
+  Material for a 2 hour short course about using three tools for bringing tables
+  in shape, as part of the NFDI4Biodiversity iDiv Seasonal School 2024. The
+  tools in question are OpenRefine, RightField, and ReStoRunT. The presentation
+  mainly consists of step-by-step screenshots.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.14269511
+creator:
+  - givenName: Wolfgang
+    familyName: Müller
+    id: https://orcid.org/0000-0002-4980-3512
+    type: Person
+    affiliation:
+      name: Heidelberger Institut für Theoretische Studien (HITS)
+      id: https://ror.org/01f7bcy98
+      type: Organization
+keywords:
+  - OpenRefine
+  - Open Refine
+  - RightField
+  - ReStoRunT
+  - Spreadsheet
+  - CSV
+  - annotation
+  - metadata
+  - metadata standard
+  - controled vocabulary
+  - ontology
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data processing
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/application
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/script
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-12-03'

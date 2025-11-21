@@ -1,0 +1,59 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Investigating Biodiversity Data Using Open-Access Databases
+description: >-
+  This presentation was part of the NFDI4Biodiversity & iDiv Seasonal School on
+  Data Management in Ecology and Environmental Science in December 2024 and of
+  the NFDI4Biodiversity & HeFDI & iDiv Seasonal School on Data Management in
+  Ecology and Environmental Science in October 2025.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.15097622
+creator:
+  - givenName: Erik
+    familyName: Kusch
+    id: https://orcid.org/0000-0002-4984-7646
+    type: Person
+    affiliation:
+      name: CICERO Center for International Climate Research
+      id: https://ror.org/01gw5dy53
+      type: Organization
+keywords:
+  - GBIF
+  - ECMWF
+  - Environmental Data
+  - APIs
+  - R
+  - KrigR
+  - climate model
+  - gridded observation product
+  - climate reanalyses
+  - essential climate variables
+  - WorldClim
+  - ERA5
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data access
+  - data collecting
+inLanguage:
+  - en
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-03-27'

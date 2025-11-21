@@ -1,0 +1,62 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Data Analysis & Visualisation According to FAIR Principles
+description: >-
+  The slides, R script, and Jupyter notebook for the workshop lesson "Data
+  Analysis & Visualisation According to FAIR Principles" as part of the
+  "NFDI4Biodiversity Seasonal School 2024" and the subsequent edition as part of
+  the follow-up course "NFDI4Biodiversity & HeFDI & iDiv Seasonal School 2025". 
+
+
+  The lesson covers the principles of the data science workflow, using R and the
+  tidyverse, with a focus on data visualization principles and the grammar of
+  graphics with the ggplot2 package.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17303036
+creator:
+  - givenName: Cédric
+    familyName: Scherer
+    id: https://orcid.org/0000-0003-0465-2543
+    type: Person
+    affiliation:
+      name: Indpendent Data Visualization Specialist
+      type: Organization
+keywords:
+  - R
+  - ggplot2
+  - ggplot
+  - workshop
+  - rstats
+  - datascience
+  - datavisualization
+  - data visualization
+  - dataviz
+  - FAIR principles
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data processing
+inLanguage:
+  - en
+learningResourceType:
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/script
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-10-09'

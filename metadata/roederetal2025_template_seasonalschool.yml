@@ -1,0 +1,185 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Template for the NFDI4Biodiversity & iDiv Seasonal School on Data Management in Ecology and Environmental Science 2024
+description: >
+  This document describes a one-week course program for a Seasonal School on
+  research data management (RDM) from 2024 which was organised for the second
+  time by partners from the NFDI4Biodiversity consortium. The course aimed to
+  provide young scientists in ecology and environmental science with
+  state-of-the-art skills and knowledge in handling scientific data throughout
+  the data life cycle. Lectures and practical sessions were given by experts
+  from renowned universities, data centers, and research institutions in the
+  environmental research community, covering general aspects of RDM and aspects
+  specifically important for handling ecological data. The participants were
+  introduced to Jupyter notebooks and learned how to combine software tools like
+  Jupyter, R, GitHub, spreadsheet tools, and NFDI4Biodiversity Tools and
+  Services. The course was conducted remotely and targeted PhD students (R1).
+  This publication summarises detailed information about the structure,
+  organisation, and lessons learned, and is supposed to be used as a guide for
+  similar events.
+
+  We list all course materials (presentation slides, video recordings, code,
+  Jupyter notebooks, trainings data sets) and accounts required to follow the
+  course program in your own pace. Additional code and training data sets are
+  available here: https://doi.org/10.5281/zenodo.15594632. The course requires a
+  minimum of programming skills in R (Python is optional).
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.15585748
+creator:
+  - givenName: Juliane
+    familyName: Röder
+    id: https://orcid.org/0000-0002-4692-2700
+    type: Person
+    affiliation:
+      name: Philipps-Universität Marburg
+      id: https://ror.org/01rdrb571
+      type: Organization
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+  - givenName: Pascal
+    familyName: Scherreiks
+    id: https://orcid.org/0000-0001-5237-0669
+    type: Person
+    affiliation:
+      name: Friedrich-Schiller-Universität Jena
+      id: https://ror.org/05qpz1x62
+      type: Organization
+  - givenName: Ludmilla
+    familyName: Figueiredo
+    id: https://orcid.org/0000-0001-8217-7800
+    type: Person
+    affiliation:
+      name: Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv)
+      id: https://ror.org/01jty7g66
+      type: Organization
+  - givenName: Erik
+    familyName: Kusch
+    id: https://orcid.org/0000-0002-4984-7646
+    type: Person
+    affiliation:
+      name: CICERO Center for International Climate Research
+      id: https://ror.org/01gw5dy53
+      type: Organization
+  - givenName: Jimena
+    familyName: Linares Gómez
+    id: https://orcid.org/0000-0003-3847-2663
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Wolfgang
+    familyName: Müller
+    id: https://orcid.org/0000-0002-4980-3512
+    type: Person
+    affiliation:
+      name: Heidelberger Institut für Theoretische Studien (HITS)
+      id: https://ror.org/01f7bcy98
+      type: Organization
+  - givenName: Alexandra
+    familyName: Nozik
+    id: https://orcid.org/0000-0003-3922-555X
+    type: Person
+    affiliation:
+      name: Leibniz Zentrum für Marine Tropenforschung (ZMT)
+      id: https://ror.org/019w00969
+      type: Organization
+  - givenName: David
+    familyName: Schellenberger Costa
+    id: https://orcid.org/0000-0003-1747-1506
+    type: Person
+    affiliation:
+      name: Universität Leipzig
+      id: https://ror.org/03s7gtk40
+      type: Organization
+  - givenName: Cédric
+    familyName: Scherer
+    id: https://orcid.org/0000-0003-0465-2543
+    type: Person
+    affiliation:
+      name: Indpendent Data Visualization Specialist
+      type: Organization
+  - givenName: Uwe
+    familyName: Schindler
+    id: https://orcid.org/0000-0002-1900-4162
+    type: Person
+    affiliation:
+      name: Universität Bremen
+      id: https://ror.org/04ers2y35
+      type: Organization
+  - givenName: Daniel
+    familyName: Tschink
+    id: https://orcid.org/0000-0001-8683-2534
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+keywords:
+  - data life cycle
+  - good scientific practice
+  - FAIR data
+  - FAIR principles
+  - CARE principles
+  - data quality
+  - data availability
+  - documentation
+  - data management plan
+  - DMP
+  - data management planning
+  - data collection
+  - digital fieldwork tools
+  - data access
+  - copyright
+  - licenses
+  - data processing
+  - reproducible workflows
+  - versioning
+  - version control
+  - data storage
+  - data visualization
+  - data visualisation
+  - reproducible workflows
+  - data analysis
+  - data 
+  - metadata
+  - metadata standard
+  - standardization
+  - naming convention
+  - terminology
+  - data preservation
+  - data publication
+  - persitent identifier
+  - PID
+  - research data repository
+  - biodiversity data
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+inLanguage:
+  - en
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-06-03'

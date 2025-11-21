@@ -1,0 +1,90 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Data Management and Data Literacy
+description: >
+
+  Description
+
+
+  This lecture was part of the NFDI4Biodiversity & iDiv Seasonal School on Data
+  Management in Biodiversity and Environmental Science introduces key principles
+  of data management and data literacy, emphasizing best practices for
+  organizing, storing, and handling data according to FAIR principles. You will
+  explore various data types in biodiversity and environmental science and learn
+  how to align your research data management (RDM) strategies with funding
+  requirements and institutional policies.
+
+
+  The NFDI4Biodiversity & iDiv Seasonal School on Data Management in
+  Biodiversity and Environmental Science was a collaboration between the German
+  Centre for Integrative Biodiversity Research (iDiv) and the NFDI4Biodiversity
+  consortium. This course offered cutting-edge skills and knowledge essential
+  for handling scientific data throughout its life cycle. The intensive five-day
+  program combined direct knowledge transfer with practical lessons to introduce
+  participants to fundamental and advanced tools in research data management
+  (RDM), tailored to enhance their future careers.
+
+
+  An updated version with a focus on Data Managemen Plans was presented at the
+  third Seasonal School on Data Management in Biodiversity and Environmental
+  Science, organised jointly by NFDI4Biodiversity, the Hessian Research Data
+  Infrastructure HeFDI and the German Centre for Integrative Biodiversity
+  Research iDiv.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17427595
+creator:
+  - givenName: Ivaylo
+    familyName: Kostadinov
+    id: https://orcid.org/0000-0003-4476-6764
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Daniel
+    familyName: Tschink
+    id: https://orcid.org/0000-0001-8683-2534
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Jimena
+    familyName: Linares Gómez
+    id: https://orcid.org/0000-0003-3847-2663
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+keywords:
+  - data life cycle
+  - data management plan
+  - DMP
+  - biodiversity data
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data management planning
+inLanguage:
+  - en
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-10-23'

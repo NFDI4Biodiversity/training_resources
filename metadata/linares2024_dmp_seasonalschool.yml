@@ -1,0 +1,54 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: DMPs as part of local organisation, FAIRness and policy compliance
+description: >-
+  The NFDI4Bio & iDiv Seasonal School on Data Management in Biodiversity and
+  Environmental Science collaborates with the German Centre for Integrative
+  Biodiversity Research (iDiv) and the consortium NFDI4Biodiversity. The school
+  offers cutting-edge skills and knowledge for handling scientific data
+  throughout its life cycle. As part of the intensive five-day program in
+  research data management (RDM), participants will learn about data management
+  practices and, with the guidance through the GFBio DMP Tool, will create a
+  Data Management Plan (DMP)
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.14162304
+creator:
+  - givenName: Linares Gómez
+    familyName: Jimena
+    id: https://orcid.org/0000-0003-3847-2663
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V.
+      id: https://ror.org/02qtnz251
+      type: Organization
+keywords:
+  - data management plan
+  - DMP
+  - GFBio DMP Tool
+  - biodiversity
+  - ecology
+  - iDiv
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data planning
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n0
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2024-11-11'
