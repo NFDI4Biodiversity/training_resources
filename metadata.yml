@@ -4,6 +4,7 @@
 - !include metadata/figueiredo2024_repro_workflows.yml
 - !include metadata/fitjer2022_linearmodels-series.yml
 - !include metadata/gerber2022_tidydata-series.yml
+- !include metadata/josifek2025_polyreg-series.yml
 - !include metadata/kostadinovetal2025_dataliteracy_seasonalschool.yml
 - !include metadata/kusch2025_dataaccess_seasonalschool.yml
 - !include metadata/linares2024_dmp_seasonalschool.yml
