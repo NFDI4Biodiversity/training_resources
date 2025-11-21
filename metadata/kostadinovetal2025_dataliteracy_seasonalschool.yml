@@ -3,10 +3,6 @@ creativeWorkStatus: Published
 type: LearningResource
 name: Data Management and Data Literacy
 description: >
-
-  Description
-
-
   This lecture was part of the NFDI4Biodiversity & iDiv Seasonal School on Data
   Management in Biodiversity and Environmental Science introduces key principles
   of data management and data literacy, emphasizing best practices for
@@ -14,7 +10,6 @@ description: >
   explore various data types in biodiversity and environmental science and learn
   how to align your research data management (RDM) strategies with funding
   requirements and institutional policies.
-
 
   The NFDI4Biodiversity & iDiv Seasonal School on Data Management in
   Biodiversity and Environmental Science was a collaboration between the German
@@ -24,7 +19,6 @@ description: >
   program combined direct knowledge transfer with practical lessons to introduce
   participants to fundamental and advanced tools in research data management
   (RDM), tailored to enhance their future careers.
-
 
   An updated version with a focus on Data Managemen Plans was presented at the
   third Seasonal School on Data Management in Biodiversity and Environmental
@@ -88,3 +82,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-10-23'
+
