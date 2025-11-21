@@ -14,8 +14,8 @@ description: >-
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://doi.org/10.5281/zenodo.14162304
 creator:
-  - givenName: Linares Gómez
-    familyName: Jimena
+  - givenName: Jimena
+    familyName: Linares Gómez
     id: https://orcid.org/0000-0003-3847-2663
     type: Person
     affiliation:
@@ -52,3 +52,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2024-11-11'
+
