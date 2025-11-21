@@ -1,0 +1,168 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  Template for the NFDI4Biodiversity & iDiv Seasonal School on Data Management
+  in Ecology and Environmental Science 2024
+description: >-
+  The NFDI4Biodiversity & iDiv Seasonal School on Data Management in
+  Biodiversity and Environmental Science was a collaboration between the German
+  Centre for Integrative Biodiversity Research (iDiv) and the NFDI4Biodiversity
+  consortium. This course offered cutting-edge skills and knowledge essential
+  for handling scientific data throughout its life cycle. The intensive five-day
+  program combined direct knowledge transfer with practical lessons to introduce
+  participants to fundamental and advanced tools in research data management
+  (RDM), tailored to enhance their future careers.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://www.youtube.com/playlist?list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv
+creator:
+  - name: NFDI4Biodiversity
+    type: Organization
+  - givenName: Ivaylo
+    familyName: Kostadinov
+    id: https://orcid.org/0000-0003-4476-6764
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Johannes
+    familyName: Signer
+    id: https://orcid.org/0000-0002-1771-7775
+    type: Person
+    affiliation:
+      name: Georg-August-Universität Göttingen
+      id: https://ror.org/01y9bpm73
+      type: Organization
+  - givenName: Jimena
+    familyName: Linares Gómez
+    id: https://orcid.org/0000-0003-3847-2663
+    type: Person
+    affiliation:
+      name: Gesellschaft für Biologische Daten e.V. (GFBio)
+      id: https://ror.org/02qtnz251
+      type: Organization
+  - givenName: Erik
+    familyName: Kusch
+    id: https://orcid.org/0000-0002-4984-7646
+    type: Person
+    affiliation:
+      name: CICERO Center for International Climate Research
+      id: https://ror.org/01gw5dy53
+      type: Organization
+  - givenName: Uwe
+    familyName: Schindler
+    id: https://orcid.org/0000-0002-1900-4162
+    type: Person
+    affiliation:
+      name: Universität Bremen
+      id: https://ror.org/04ers2y35
+      type: Organization
+  - givenName: David
+    familyName: Schellenberger Costa
+    id: https://orcid.org/0000-0003-1747-1506
+    type: Person
+    affiliation:
+      name: Universität Leipzig
+      id: https://ror.org/03s7gtk40
+      type: Organization
+  - givenName: Wolfgang
+    familyName: Müller
+    id: https://orcid.org/0000-0002-4980-3512
+    type: Person
+    affiliation:
+      name: Heidelberger Institut für Theoretische Studien (HITS)
+      id: https://ror.org/01f7bcy98
+      type: Organization
+  - givenName: Cédric
+    familyName: Scherer
+    id: https://orcid.org/0000-0003-0465-2543
+    type: Person
+    affiliation:
+      name: Indpendent Data Visualization Specialist
+      type: Organization
+  - givenName: Ludmilla
+    familyName: Figueiredo
+    id: https://orcid.org/0000-0001-8217-7800
+    type: Person
+    affiliation:
+      name: Deutsches Zentrum für integrative Biodiversitätsforschung (iDiv)
+      id: https://ror.org/01jty7g66
+      type: Organization
+  - givenName: Judith
+    familyName: Engel
+    id: https://orcid.org/0000-0001-8665-6382
+    type: Person
+    affiliation:
+      name: Universität Bremen
+      id: https://ror.org/04ers2y35
+      type: Organization
+  - givenName: Matthias
+    familyName: Pauli
+    type: Person
+    affiliation:
+      name: Universität Bremen
+      id: https://ror.org/04ers2y35
+      type: Organization
+keywords:
+  - data life cycle
+  - good scientific practice
+  - FAIR data
+  - FAIR principles
+  - CARE principles
+  - data quality
+  - data availability
+  - documentation
+  - data management plan
+  - DMP
+  - data management planning
+  - data collection
+  - digital fieldwork tools
+  - data access
+  - copyright
+  - licenses
+  - data processing
+  - reproducible workflows
+  - versioning
+  - version control
+  - data storage
+  - data visualization
+  - data visualisation
+  - reproducible workflows
+  - data analysis
+  - data
+  - metadata
+  - metadata standard
+  - standardization
+  - naming convention
+  - terminology
+  - data preservation
+  - data publication
+  - persitent identifier
+  - PID
+  - research data repository
+  - biodiversity data
+  - biodiversity
+  - ecology
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityiDivSeasonalSchool2024
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+inLanguage:
+  - en
+learningResourceType:
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/video
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-06-02'
