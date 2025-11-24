@@ -6,13 +6,16 @@ name: >-
   in Ecology and Environmental Science 2024
 description: >-
   The NFDI4Biodiversity & iDiv Seasonal School on Data Management in
-  Biodiversity and Environmental Science was a collaboration between the German
+  Biodiversity and Environmental Science 2024 was a collaboration between the German
   Centre for Integrative Biodiversity Research (iDiv) and the NFDI4Biodiversity
   consortium. This course offered cutting-edge skills and knowledge essential
   for handling scientific data throughout its life cycle. The intensive five-day
   program combined direct knowledge transfer with practical lessons to introduce
   participants to fundamental and advanced tools in research data management
   (RDM), tailored to enhance their future careers.
+
+  This is a playlist of 13 lecture recordings. For all recorded lectures, you can
+  find additional training materials on Zenodo (https://t1p.de/4Biodiv-SeasonalSchool2024).
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://www.youtube.com/playlist?list=PL06Unzn1hDrjVAZ0RvNbyQ1Uics9TQ1Kv
 creator:
@@ -166,3 +169,4 @@ learningResourceType:
 educationalLevel:
   - https://w3id.org/kim/educationalLevel/level_A
 datePublished: '2025-06-02'
+
