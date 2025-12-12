@@ -9,7 +9,7 @@
 - !include metadata/kusch2025_dataaccess_seasonalschool.yml
 - !include metadata/linares2024_dmp_seasonalschool.yml
 - !include metadata/mueller2024_3tools_seasonalschool.yml
-- !include metadata/nfdi4biodiversity_seasonalschool2024-plylist.yml
+- !include metadata/nfdi4biodiversity_seasonalschool2024-playlist.yml
 - !include metadata/roederetal2025_template_seasonalschool.yml
 - !include metadata/schellenbergercosta2024_taxharm_seasonalschool_v3.yml
 - !include metadata/schellenbergercosta2025_taxharm_seasonalschool_v5.yml
