@@ -1,0 +1,63 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: >-
+  'Tis the Season for Legal Reason - Resource Sharing and Data Rights
+  NFDI4Biodiversity Seasonal School 2025
+description: >-
+  This presentation was held during the NFDI4Biodiversity Seasonal School 2025.
+  It was a session of 90 minutes with interactive elements. Topics were the
+  Nagoya Protocol as well as data rights and obligations posed by law and
+  licenses when creating and using research data.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17628099
+creator:
+  - givenName: Lea Sophie
+    familyName: Singson
+    id: https://orcid.org/0009-0004-9978-8703
+    type: Person
+    affiliation:
+      name: FIZ Karlsruhe - Leibniz-Institut für Informationsinfrastruktur
+      id: https://ror.org/0387prb75
+      type: Organization
+keywords:
+  - legal aspects
+  - legal issues
+  - resource and benefit sharing
+  - Nagoya Protocol
+  - data rights
+  - license
+  - creative commons
+  - CC licenses
+  - copyright
+  - case study
+  - biodiversity
+  - ecology
+  - FIZ
+  - FAIRagro
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - National Research Data Infrastructure
+  - NFDI
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - NFDI4Biodiversity Seasonal School
+  - training
+  - research data management training
+  - RDM training
+  - research data
+  - research data management
+  - RDM
+  - good scientific practice
+  - data use
+  - data collection
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+  - https://w3id.org/kim/hochschulfaechersystematik/n135
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-17'
