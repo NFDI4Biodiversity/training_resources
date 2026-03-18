@@ -1,0 +1,50 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: 'OpenRefine I: Cleaning Messy Data with Ease'
+description: >-
+
+
+  The presentation for an online training course on OpenRefine, given as part of
+  the WiNoDa Winter School 2025. 
+
+
+  This is course focuses on the core features of OpenRefine. Features that use
+  data enhancement from external sources are covered by the following course
+  OpenRefine II: Enriching Data (https://doi.org/10.5281/zenodo.18348535),
+  presented by Frederik Berger.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.18712731
+creator:
+  - givenName: David
+    familyName: Fichtmueller
+    id: https://orcid.org/0000-0002-0829-5849
+    type: Person
+    affiliation:
+      name: Botanic Garden and Botanical Museum Berlin
+      id: https://ror.org/00bv4cx53
+      type: Organization
+keywords:
+  - Open Refine
+  - Data Cleaning
+  - NFDI4Biodiversity
+  - research data management
+  - training
+  - RDM
+  - rdm training
+  - biodiversity
+  - Nationale Forschungsdateninfrastruktur
+  - NFDI
+  - National Research Data Infrastructure
+  - research data
+  - data processing
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/drill_and_practice
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-25'
