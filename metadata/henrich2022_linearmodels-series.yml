@@ -7,6 +7,7 @@ description: >-
   teaches researchers from the fields of biology and ecology how to work with
   the free R programming language.
 
+  The code to follow the lessons is available here: https://github.com/jonaden94/TheLinearModel
 
   It is continued by the NFDI4Biodiversity video series "Data Science 4
   Ecologists in R: Polynomial Regression Analysis in R" (3 parts,
@@ -23,8 +24,9 @@ description: >-
 license: https://creativecommons.org/licenses/by/4.0/deed.de
 id: https://www.youtube.com/playlist?list=PL06Unzn1hDrizkhhD0L9nROFnfqxtBVwY
 creator:
-  - givenName: Sören
-    familyName: Fitjer
+  - givenName: Henrich
+    familyName: Jonathan
+    id: https://orcid.org/0009-0000-1001-5757
     type: Person
     affiliation:
       name: Georg-August-Universität Göttingen
