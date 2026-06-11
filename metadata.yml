@@ -5,12 +5,14 @@
 - !include metadata/figueiredo2024_repro_workflows.yml
 - !include metadata/henrich2022_linearmodels-series.yml
 - !include metadata/gerber2022_tidydata-series.yml
+- !include metadata/jordan2025_intro_rdm_seasonalschool.yml
 - !include metadata/josifek2025_polyreg-series.yml
 - !include metadata/kostadinovetal2025_dataliteracy_seasonalschool.yml
 - !include metadata/kusch2025_dataaccess_seasonalschool.yml
 - !include metadata/linares2024_dmp_seasonalschool.yml
 - !include metadata/mueller2024_3tools_seasonalschool.yml
 - !include metadata/nfdi4biodiversity_seasonalschool2024-playlist.yml
+- !include metadata/nozik2025_geospatial_data_collection_seasonalschool.yml
 - !include metadata/roederetal2025_template_seasonalschool.yml
 - !include metadata/rosenbaum2025_bayesian_stats_series.yml
 - !include metadata/schellenbergercosta2024_taxharm_seasonalschool_v3.yml
