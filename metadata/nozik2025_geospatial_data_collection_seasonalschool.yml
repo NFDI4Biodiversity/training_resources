@@ -1,0 +1,54 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Geospatial Data Collection with the Qfield app
+description: >-
+  The slides accompany the practical session on "Geospatial data collection with
+  the Qfield app" as part of the 2025 NFDI4Biodiversity & HeFDI & iDiv Seasonal
+  School on Data Management in Biodiversity and Environmental Science. The
+  session provided a topical input on Qfield as a geospatial data collection
+  tool and practical instructions for the practical example Qfield project.
+
+  During the workshop, the participants used Qfield to collect a traits dataset
+  of 70 tree points, which were synchronized directly into one QGIS project. The
+  participants learned how the project was set up in QGIS for the use in the
+  Qfield app, with a choice of data types, contraints, and default values.
+  Further, the workshop covered how collaborative data collection is enabled via
+  QfieldCloud.
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17623082
+creator:
+  - givenName: Alexandra
+    familyName: Nozik
+    id: https://orcid.org/0000-0003-3922-555X
+    type: Person
+    affiliation:
+      name: Leibniz-Zentrum für Marine Tropenforschung
+      type: Organization
+keywords:
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - training
+  - NFDI4Biodiversity Seasonal School
+  - ResearchDataCollection
+  - Research Data Management
+  - Training Materials
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - Geospatial Data
+  - Environmental Data
+  - Biodiversity Data
+  - RDM Training
+  - RDM
+  - Data Collection
+  - Digital Data Collection
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+  - https://w3id.org/kim/hochschulfaechersystematik/n283
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-16'

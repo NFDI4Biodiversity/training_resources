@@ -1,0 +1,62 @@
+'@context': https://schema.org/
+creativeWorkStatus: Published
+type: LearningResource
+name: Introduction to Research Data Management
+description: >-
+  This lecture was part of the NFDI4Biodiversity & HeFDI & iDiv Seasonal School
+  on Data Management in Biodiversity and Environmental Science. It introduces
+  fundamental principles of research data management (RDM) and data literacy,
+  highlighting best practices for organizing, storing, documenting, and sharing
+  data according to the FAIR principles. Participants were guided through the
+  research data life cycle and explored how to design data management strategies
+  that meet funder and institutional requirements while improving the
+  reproducibility and impact of their research.
+
+
+  The NFDI4Biodiversity & HeFDI & iDiv Seasonal School on Data Management in
+  Biodiversity and Environmental Science is a joint initiative by the
+  NFDI4Biodiversity consortium, the Hessian Research Data Infrastructure
+  (HeFDI), and the German Centre for Integrative Biodiversity Research (iDiv).
+  The intensive five-day program combines conceptual input with hands-on
+  practice, equipping early-career researchers with the skills to manage
+  biodiversity and environmental data throughout its life cycle.
+
+
+  Contact: forschungsdaten@uni-kassel.de 
+license: https://creativecommons.org/licenses/by/4.0/deed.de
+id: https://doi.org/10.5281/zenodo.17549986
+creator:
+  - givenName: Sabrina
+    familyName: Jordan
+    id: https://orcid.org/0000-0002-4248-6147
+    type: Person
+    affiliation:
+      name: Universität Kassel
+      id: https://ror.org/04zc7p361
+      type: Organization
+keywords:
+  - NFDI4BiodiversityHeFDIiDivSeasonalSchool2025
+  - training
+  - NFDI4Biodiversity Seasonal School
+  - Research Data Management
+  - Research Data Lifecycle
+  - Scientific Data Handling
+  - Training Materials
+  - iDiv
+  - HeFDI
+  - NFDI4Biodiversity
+  - Environmental Data
+  - Biodiversity Data
+  - Data Management Plan
+  - Data Literacy
+  - RDM Training
+  - RDM
+inLanguage:
+  - en
+about:
+  - https://w3id.org/kim/hochschulfaechersystematik/n026
+learningResourceType:
+  - https://w3id.org/kim/hcrt/slide
+educationalLevel:
+  - https://w3id.org/kim/educationalLevel/level_A
+datePublished: '2025-11-07'
